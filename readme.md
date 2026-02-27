@@ -1,0 +1,1 @@
+This is a Digital Clock that I created while learning about Date() and setInterval().
